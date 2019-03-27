@@ -18,6 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React by doing on 27 March 2019
+            React with redux
           </a>
         </header>
       </div>
